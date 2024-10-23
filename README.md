@@ -1,4 +1,4 @@
-# My own nvim configurations in a folder .config 🖥️
+# My Own Nvim Configurations 🖥️
 
 ## Usage 📦
 Put the folder nvim into another folder .config
